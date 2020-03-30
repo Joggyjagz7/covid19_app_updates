@@ -1,9 +1,9 @@
-import 'package:covid_updates/Screens/CountryReportPage.dart';
-import 'package:covid_updates/Screens/countriesPage.dart';
-import 'package:covid_updates/Screens/homePage.dart';
-import 'package:covid_updates/Screens/preventionPage.dart';
-import 'package:covid_updates/Screens/reportPage.dart';
-import 'package:covid_updates/Screens/symptomsPage.dart';
+import 'package:coro_app_updates/Screens/CountryReportPage.dart';
+import 'package:coro_app_updates/Screens/countriesPage.dart';
+import 'package:coro_app_updates/Screens/homePage.dart';
+import 'package:coro_app_updates/Screens/preventionPage.dart';
+import 'package:coro_app_updates/Screens/reportPage.dart';
+import 'package:coro_app_updates/Screens/symptomsPage.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
